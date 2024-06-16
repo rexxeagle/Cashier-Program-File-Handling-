@@ -1,0 +1,16 @@
+
+                 Eagle Tech Mart
+-------------------------------------------------
+Order Time: 2024-06-16 12:50:12   INV202412ETM
+-------------------------------------------------
+Item: Laptop    Price: Rp. 10,000,000.00    QTY: 1
+Item: Smartphone    Price: Rp. 5,000,000.00    QTY: 3
+Item: Tablet    Price: Rp. 3,000,000.00    QTY: 5
+
+                   ------------------------------
+                   Total Price: Rp. 40,000,000.00
+                Customer Money: Rp. 41,000,000.00
+                        Change: Rp. 1,000,000.00
+-------------------------------------------------
+          Thanks for shopping with us!
+             Made by Rendy Elang
